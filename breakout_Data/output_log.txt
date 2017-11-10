@@ -1,0 +1,61 @@
+Initialize engine version: 5.6.4f1 (ac7086b8d112)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+    Driver:   10.18.10.4358
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\chang\Unity\Breakout\breakout_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\chang\Unity\Breakout\breakout_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\chang\Unity\Breakout\breakout_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\chang\Unity\Breakout\breakout_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\chang\Unity\Breakout\breakout_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\chang\Unity\Breakout\breakout_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\chang\Unity\Breakout\breakout_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\chang\Unity\Breakout\breakout_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\chang\Unity\Breakout\breakout_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\chang\Unity\Breakout\breakout_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: C:\Users\chang\Unity\Breakout\breakout_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\chang\Unity\Breakout\breakout_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.118784 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 294c -> priority: 1 
+  Thread -> id: 3618 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.009899 ms
+
+Unloading 109 unused Assets to reduce memory usage. Loaded Objects now: 269.
+Total: 0.470055 ms (FindLiveObjects: 0.029968 ms CreateObjectMapping: 0.032842 ms MarkObjects: 0.137527 ms  DeleteObjects: 0.268896 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.349831 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 0.291064 ms (FindLiveObjects: 0.034484 ms CreateObjectMapping: 0.022168 ms MarkObjects: 0.217169 ms  DeleteObjects: 0.016421 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.490265 ms
+
+Unloading 107 unused Assets to reduce memory usage. Loaded Objects now: 271.
+Total: 0.543129 ms (FindLiveObjects: 0.030379 ms CreateObjectMapping: 0.021347 ms MarkObjects: 0.192537 ms  DeleteObjects: 0.297633 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.627697 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 0.430233 ms (FindLiveObjects: 0.083747 ms CreateObjectMapping: 0.039821 ms MarkObjects: 0.284085 ms  DeleteObjects: 0.020526 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.949141 ms
+
+Unloading 107 unused Assets to reduce memory usage. Loaded Objects now: 271.
+Total: 0.582129 ms (FindLiveObjects: 0.042284 ms CreateObjectMapping: 0.021758 ms MarkObjects: 0.197053 ms  DeleteObjects: 0.320212 ms)
+
